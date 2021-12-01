@@ -32,7 +32,11 @@ Application REACT de présentation des personnages de Game Of Thrones à partir 
 - Créer une fonctionnalité de filtre
 ## Démo du site
 
-Lancer JSON Server
+Clôner le repo
+```bash
+  https://github.com/CarolineSenes/game_of_thrones_caracters.git
+```
+
 ```bash
   yarn server
 ```
