@@ -9,7 +9,7 @@ const Caracters = () => {
   const [data, setData] = useState([]);
   const [sortedData, setSortedData] = useState([]);
 
-  //quand l'appel API est joué 1 fois, la valeur passe à false, donc l'appel API ne se rejour plus en boucle
+  //quand l'appel API est joué 1 fois, la valeur passe à false, donc l'appel API ne se rejoue plus en boucle
   const [playOnce, setPlayOnce] = useState(true); //valeur par défaut sur true
 
   //stocke la famille selectionné dans le menu déroulant
