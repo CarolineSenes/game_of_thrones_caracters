@@ -37,6 +37,7 @@ Clôner le repo
   https://github.com/CarolineSenes/game_of_thrones_caracters.git
 ```
 
+Lancer JSON Server
 ```bash
   yarn server
 ```
