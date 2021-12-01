@@ -1,0 +1,17 @@
+.caracters {
+      .sort-container {
+      display: grid;
+      grid-template-columns: 20% 80%;
+      padding: 8px;
+      border-radius: 15px;
+      background: $color-3;
+      box-shadow: 0 2px 2px rgba(51, 51, 51, 0.3);
+    }
+  
+    .caracters-list {
+      display: flex;
+      flex-wrap: wrap;
+      margin-top: 15px;
+    }
+  }
+  
